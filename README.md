@@ -63,7 +63,7 @@ A Synology DS218+ NAS with the following specs:
 |**Veto files**|Disabled|
 |**Allow symbolic links within shared folders**|Enabled|
 |**Allow symbolic links across shared folders**|Disabled|
-|**Disable multiple connections from the same IP address|Disabled|
+|**Disable multiple connections from the same IP address**|Disabled|
 |**Collect debug logs**|Disabled|
 |**Apply default UNIX permissions**|Enabled|
 |**Do not reserve disk space when creating files**|Disabled|
